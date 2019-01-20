@@ -1,5 +1,7 @@
 # ARTEST
 
+# connect to NUS_Guset and VISIT 172.17.212.68:5000
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -43,6 +45,7 @@ Now, there will be a (env) on the side of the terminal line.
 
 # Datasets : 
 Download the dataset (36GB) and extract it in the misc/fullimages
+
 https://drive.google.com/file/d/1yHqS2zXgCiI9LO4gN-X5W18QYXC5bbQS/view
 
 # Decription :
@@ -69,7 +72,6 @@ Categories we would like to enroll for :
 2. Joe - Server Setup
 3. Vijai - Social Media setup and Server setup
 4. Rohan - Supervising and assissting Server Setup
-
 
 
 Finally,Pull requests/changes/stars would be really helpful.
