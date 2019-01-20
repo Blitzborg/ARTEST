@@ -1,6 +1,6 @@
 # ARTEST
 
-# connect to NUS_Guset and VISIT 172.17.212.68:5000
+# connect to NUS_Guest and VISIT 172.17.212.68:5000
 
 ## Getting Started
 
